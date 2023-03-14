@@ -1,0 +1,1 @@
+Overview: This project is a basic to_do_list that will allow you to input text in the textbox and upon submitting will add a new box underneath of the task below. Upom completion you will simply it the check mark to get rid of the task.
