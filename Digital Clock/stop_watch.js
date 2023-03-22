@@ -32,8 +32,3 @@ function start(){
     }
 
 }
-
-
-
-
-// const myLabel = document.getElementById("p1").innerHTML = ""+ a; 
